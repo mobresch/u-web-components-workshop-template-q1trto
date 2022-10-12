@@ -7,3 +7,4 @@ import './u-navbar.js';
 import './u-search.js';
 import './u-social-icon.js';
 import './u-toast.js';
+import './u-footer.js';
